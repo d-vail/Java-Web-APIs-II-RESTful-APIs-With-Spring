@@ -1,4 +1,4 @@
-# Java Web APIs I - Building RESTful Web Services with Spring
+# Java Web APIs II - Building RESTful Web Services with Spring
 
 Goals of this module are to:
 - Understand the basics of the REST architectural style
